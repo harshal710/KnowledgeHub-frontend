@@ -34,7 +34,7 @@ Pages → Components → API Layer → Context → Backend
 ---
 
 ## Folder Structure
-
+```
 src/
 ├── api/
 ├── components/
@@ -43,7 +43,7 @@ src/
 ├── assets/
 ├── App.jsx
 └── main.jsx
-
+```
 ---
 
 ##  Key Design Decisions
